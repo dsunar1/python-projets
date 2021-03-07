@@ -1,1 +1,9 @@
 # We are coding Madlib using Python.
+# We can learn string concatenation ( which is a way to put two string together) in this project.
+
+car = ""
+
+# There are few ways to concatenate strings.
+print("I love " + car) 
+print("I love {}".format(car))
+print(f"I love {car}") 
