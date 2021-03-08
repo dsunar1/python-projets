@@ -8,7 +8,15 @@ car = ""
 #print("I love {}".format(car))
 #print(f"I love {car}") # I like this one since its neat!
 
+Name = input("Name: ")
+Game = input("Game: ")
+Food = input("Food: ")
+Noun = input("Noun: ")
 
-madlib = f"Porsche makes the {adj} cars. {model} is my favorite one. The best part of 
+
+Madlib = f"{Name} loves playing {Game}. I like eating {Food}.\
+{Noun} can be fun if you learn to enjoy the journey."
+
+print(Madlib)
 
 
