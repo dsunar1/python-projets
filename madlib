@@ -1,7 +1,7 @@
 # We are coding Madlib using Python.
 # We can learn string concatenation ( which is a way to put two string together) in this project.
 
-car = ""
+car = "Porsche"
 
 # There are few ways to concatenate strings.
 #print("I love " + car) 
