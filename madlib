@@ -4,6 +4,11 @@
 car = ""
 
 # There are few ways to concatenate strings.
-print("I love " + car) 
-print("I love {}".format(car))
-print(f"I love {car}") 
+#print("I love " + car) 
+#print("I love {}".format(car))
+#print(f"I love {car}") # I like this one since its neat!
+
+
+madlib = f"Porsche makes the {adj} cars. {model} is my favorite one. The best part of 
+
+
